@@ -36,7 +36,3 @@ The second script, named collision_diff_alt.py, uses altitude difference and for
 python3 formation.py
 python3 collision_diff_alt.py
 ```
-## Slides and Demo
-[Slides](https://docs.google.com/presentation/d/1IlL-fUdMNUojyc88Rb28i6pSR4CSWBT6ZZFubiO3pv4/edit?usp=sharing)
-
-[Demo video](https://drive.google.com/file/d/1MVNR6ENyw0T_eG41rAaKh0XaN0PRqPsZ/view?usp=sharing)
